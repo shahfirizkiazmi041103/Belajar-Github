@@ -1,3 +1,5 @@
 Belajar menoeperasikan github 
 1. agar lebih paham dalam kerja kelompok
 2. Menambakah fungsi app firma hukum
+3. Mecoba deplay dengan baik dan benar
+5. memanfaatkan github untuk kolaborasi bersama tim dengan kompak
