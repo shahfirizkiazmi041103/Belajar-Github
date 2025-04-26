@@ -9,14 +9,7 @@ class NoteInput extends HTMLElement {
     this.setupForm();
   }
 
-  setupForm() {
-    const form = this.shadowRoot.querySelector('form');
-    const titleInput = this.shadowRoot.querySelector('#title');
-    const bodyInput = this.shadowRoot.querySelector('#body');
-    const titleError = this.shadowRoot.querySelector('#titleError');
-    const bodyError = this.shadowRoot.querySelector('#bodyError');
-    const submitButton = this.shadowRoot.querySelector('button');
-
+ 
     titleInput.addEventListener('input', () => {
       titleError.textContent =
         titleInput.value.trim() === '' ? 'Judul tidak boleh kosong!' : '';
