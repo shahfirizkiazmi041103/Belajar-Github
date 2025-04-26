@@ -1,2 +1,3 @@
 Belajar menoeperasikan github 
 1. agar lebih paham dalam kerja kelompok
+2. Menambakah fungsi app firma hukum
